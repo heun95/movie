@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-for-beginners/static/css/main.04a5d345.css",
-    "main.js": "/react-for-beginners/static/js/main.b2e69f9d.js",
-    "static/js/787.e253fc0a.chunk.js": "/react-for-beginners/static/js/787.e253fc0a.chunk.js",
-    "index.html": "/react-for-beginners/index.html",
-    "main.04a5d345.css.map": "/react-for-beginners/static/css/main.04a5d345.css.map",
-    "main.b2e69f9d.js.map": "/react-for-beginners/static/js/main.b2e69f9d.js.map",
-    "787.e253fc0a.chunk.js.map": "/react-for-beginners/static/js/787.e253fc0a.chunk.js.map"
+    "main.css": "/movie/static/css/main.04a5d345.css",
+    "main.js": "/movie/static/js/main.a28bcc23.js",
+    "static/js/787.e253fc0a.chunk.js": "/movie/static/js/787.e253fc0a.chunk.js",
+    "index.html": "/movie/index.html",
+    "main.04a5d345.css.map": "/movie/static/css/main.04a5d345.css.map",
+    "main.a28bcc23.js.map": "/movie/static/js/main.a28bcc23.js.map",
+    "787.e253fc0a.chunk.js.map": "/movie/static/js/787.e253fc0a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04a5d345.css",
-    "static/js/main.b2e69f9d.js"
+    "static/js/main.a28bcc23.js"
   ]
 }
