@@ -1,0 +1,14 @@
+.container {
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+  }
+.link{
+  font-size: 30px;
+  padding: 0px 50px;
+  text-decoration: none;
+}
+
+ 
+ 
